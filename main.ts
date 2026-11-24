@@ -1,4 +1,4 @@
-// Tiny stack VM entry for tiny-stack-vm-01-run-20261122: a faithful port of the kit's
+// greatestone tiny-stack-vm-01-run-20261122 entry (faithful ISA port, byte-exact 40/40 practice): a faithful port of the kit's
 // reference VM (generator/subject/vm.mjs) to TypeScript, with the entry's file I/O. It reads
 // /input/<id>/program.bin and input.bin (MAKEFUN_INPUT_DIR override), runs the bytecode and
 // writes /output/<id>/stdout.bin and exit.txt (MAKEFUN_OUTPUT_DIR override). Wrapping 32-bit
